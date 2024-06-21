@@ -3,6 +3,7 @@ import { IoIosPeople } from "react-icons/io";
 import React from 'react'
 
 export default function Info() {
+  //test
   return (
     <Container maxW='7xl' display={'flex'} flexDir={'column'}>
 
